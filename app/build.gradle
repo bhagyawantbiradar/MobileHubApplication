@@ -31,4 +31,6 @@ dependencies {
     implementation deps.androidx.core
 
     implementation deps.bugsnag
+
+    implementation project(":montserrat")
 }
