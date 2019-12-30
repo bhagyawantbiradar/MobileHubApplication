@@ -4,6 +4,11 @@ Mobile Hub Application
 MobileHub is an android application which will help developers to use a GitHub efficiently on mobile device.
 
 
+Build Status
+=======
+[![Build Status](https://travis-ci.com/stechno-system/MobileHubApplication.svg?branch=master)](https://travis-ci.com/stechno-system/MobileHubApplication)
+
+
 License
 =======
 
