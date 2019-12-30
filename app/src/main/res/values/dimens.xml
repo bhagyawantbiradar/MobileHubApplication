@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_splash_screen_app_logo">100.0dip</dimen>
+    <dimen name="height_splash_screen_app_logo">100.0dip</dimen>
+    <dimen name="margin_bottom_splash_screen_logo">24.0dip</dimen>
+</resources>
