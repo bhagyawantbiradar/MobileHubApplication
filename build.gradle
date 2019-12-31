@@ -45,6 +45,8 @@ buildscript {
         classpath 'com.android.tools.build:gradle:3.5.3'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}"
         classpath 'org.jlleitschuh.gradle:ktlint-gradle:9.0.0'
+        classpath 'com.getkeepsafe.dexcount:dexcount-gradle-plugin:1.0.2'
+        classpath "com.github.ben-manes:gradle-versions-plugin:0.27.0"
     }
 }
 
@@ -71,3 +73,5 @@ task clean(type: Delete) {
 def propOrEmpty(String name) {
     return hasProperty(name) ? getProperty(name) : ''
 }
+
+apply plugin: "com.github.ben-manes.versions"
