@@ -8,6 +8,14 @@ Build Status
 =======
 [![Build Status](https://travis-ci.com/stechno-system/MobileHubApplication.svg?branch=master)](https://travis-ci.com/stechno-system/MobileHubApplication)
 
+Contributions
+=======
+
+If you've found an error or optimization in this project, please file an issue.
+
+Patches are encouraged, and may be submitted by forking this project and
+submitting a pull request. Since this project is still in its very early stages,
+if your change is substantial, please raise an issue first to discuss it.
 
 License
 =======
